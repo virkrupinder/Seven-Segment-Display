@@ -2,13 +2,13 @@
 // Engineer: Rupinderjit Virk
 
 // File: quad_seven_seg.v
-// This is the top level design for EE178 Lab #2.
 // The `timescale directive specifies what the
 // simulation time units are (1 ns here) and what
 // the simulator time step should be (1 ps here).
 `timescale 1 ns / 1 ps
 // Declare the module and its ports. This is
 // using Verilog-2001 syntax.
+
 module quad_seven_seg (
 input wire clk,
 input wire [3:0] val3,
