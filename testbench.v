@@ -1,6 +1,5 @@
 // File: testbench.v
-// This is a top level testbench for the quad_seven_seg design, which is part of
-// the EE178 Lab #2 assignment.
+// This is a top level testbench for the quad_seven_seg design.
 // The `timescale directive specifies what the simulation time units are (1 ns here) and what
 // the simulator time step should be (1 ps here).
 `timescale 1 ns / 1 ps
